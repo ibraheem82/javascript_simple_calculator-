@@ -4,6 +4,9 @@
 
 ### the was built by **Ibraheem Omikunle**.
 
+
+## See the code below
+
 ```js
 function getHistory() {
     return document.getElementById("history-value").innerText;
@@ -93,4 +96,6 @@ for (var i = 0; i < number.length; i++) {
 
 ```
 
-* you can help me add functionalitied to it.
+#### Check the image below
+##### To see the interface of the calculateor.
+![interface of calculator](calculator_interface.png)
